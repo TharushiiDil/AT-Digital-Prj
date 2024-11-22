@@ -1,0 +1,18 @@
+.at-digital-container .top-menu-navbar {
+    background: #6B3CC9 !important;
+}
+.at-digital-container .home-section .container-section {
+    position: relative;
+}
+
+.at-digital-container .home-section .container-section {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    width: 45%;
+    background: linear-gradient(257deg, #1CBDDD 27.86%, #4DCA79 100%), #FFF;
+}
+
+.at-digital-container .footer-section {
+    background: #6B3CC9;
+}
